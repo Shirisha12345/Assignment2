@@ -1,0 +1,13 @@
+# www.robotstxt.org/
+
+# TEAM
+
+    Stack Route
+
+# THANKS
+
+    T.Shirisha
+
+
+User-agent: Visual Studio
+
